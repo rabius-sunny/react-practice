@@ -5,7 +5,7 @@ import Home from './Home'
 import HOC from './HOC/HOC'
 import RENDER_PROPS from './RENDER_PROPS/RENDER_PROPS'
 import Counter from './RENDER_PROPS/Counter'
-import UseMemo from './Hooks/useMemo'
+import UseMemo from './Hooks/useMemo_useCallback'
 
 export default function App() {
 
