@@ -6,5 +6,6 @@ export default function Home() {
     <h1>Home</h1>
     <h1><Link to="/hoc">HOC</Link></h1>
     <h1><Link to="/render-props">RENDER PROPS</Link></h1>
+    <h1><Link to="/usememo">Use Memo</Link></h1>
   </>
 }
